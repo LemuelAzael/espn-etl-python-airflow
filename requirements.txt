@@ -1,0 +1,27 @@
+﻿
+# Manejo y análisis de datos
+pandas              # Manipulación y análisis de datos
+
+
+# Conexión a bases de datos
+sqlalchemy          # ORM y conexión a bases de datos SQL
+pymysql             # Driver para conexión con MySQL
+
+
+# Archivos y lectura de configuraciones
+pyyaml              # Lectura y escritura de archivos YAML
+
+
+# Jupyter y desarrollo interactivo
+ipykernel           # Kernel de Python para Jupyter
+notebook            # Entorno de notebooks
+jupyterlab          # Interfaz moderna de Jupyter
+
+
+# Variables de entorno y compatibilidad
+python-dotenv       # Carga variables desde archivos .env
+
+#
+lxml
+
+
