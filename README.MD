@@ -144,11 +144,13 @@ docker-compose up --build
 Lemuel Azael Carrillo Barrera
 Proyecto para portafolio de ingeniería de datos.
 
+🔗 [Más sobre mí](https://www.notion.so/Perfil-profesional-Lemuel-Azael-Carrillo-Barrera-2619ec6ab8528025b300d6099cd92add?source=copy_link)
+
 ## 📚 Desarrollo completo del proyecto
 
 Revisa todo el proceso paso a paso: desde la configuración inicial hasta la ejecución automatizada en AWS.
 
-🔎 [Ver desarrollo completo en Notion](https://www.notion.so/ETL-from-ESPN-Football-to-MySQL-using-Python-and-Airflow-2559ec6ab85280069234c308f2994d4c?source=copy_link)
+🔎 [Ver desarrollo completo en Notion](https://www.notion.so/ETL-from-ESPN-Football-to-MySQL-using-Python-and-Airflow-2619ec6ab8528031b9fdd6cd18da6760?source=copy_link)
 
 ## 🌐 Portafolio completo
 
